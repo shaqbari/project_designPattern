@@ -1,4 +1,4 @@
-package dp04_FactoryMethodPattern_framework;
+package dp04_factoryMethodPattern_framework;
 
 public interface Item {
 	

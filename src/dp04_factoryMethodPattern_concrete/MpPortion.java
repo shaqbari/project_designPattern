@@ -1,6 +1,6 @@
-package dp04_FactoryMethodPattern;
+package dp04_factoryMethodPattern_concrete;
 
-import dp04_FactoryMethodPattern_framework.Item;
+import dp04_factoryMethodPattern_framework.Item;
 
 public class MpPortion implements Item {
 

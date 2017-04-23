@@ -1,9 +1,9 @@
-package dp04_FactoryMethodPattern;
+package dp04_factoryMethodPattern_concrete;
 
 import java.util.Date;
 
-import dp04_FactoryMethodPattern_framework.Item;
-import dp04_FactoryMethodPattern_framework.ItemFactory;
+import dp04_factoryMethodPattern_framework.Item;
+import dp04_factoryMethodPattern_framework.ItemFactory;
 
 public class HpPortionFactory extends ItemFactory{
 

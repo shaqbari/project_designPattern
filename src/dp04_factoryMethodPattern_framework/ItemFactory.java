@@ -1,4 +1,4 @@
-package dp04_FactoryMethodPattern_framework;
+package dp04_factoryMethodPattern_framework;
 
 public abstract class ItemFactory {
 	//템플릿메소드 패턴을 이용한다.
