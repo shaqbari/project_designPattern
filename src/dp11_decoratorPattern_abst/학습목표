@@ -1,0 +1,8 @@
+동적으로 책임(해야하는 일 or 할수 있는 일, 기능)추가가 필요할때 
+데코레이터 패턴을 사용할 수 있다.
+
+component: 실질적인 인스턴스를 컨트롤하는 역할, 메소드는 책임부분
+ConcreteComponent:Component의 실질적인 인스턴스 부분이며, 책임의 주체 역할
+Decorator: Component와 Concrete Decorator를 동일시 하도록 해주는 역할,
+	 component이면서(is a) component를 가질 수(has a) 있다.
+ConcreteDecorator: 실질적인 장식 인스턴스 및 정의이며 추가된 책임의 주체 부분이다.

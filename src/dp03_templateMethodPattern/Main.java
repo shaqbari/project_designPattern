@@ -1,7 +1,7 @@
 package dp03_templateMethodPattern;
 
-import dp03_templateMethodPattern_lib.AbstGameConnectHelper;
-import dp03_templateMethodPattern_lib.DefaultGameConnectHelper;
+import dp03_templateMethodPattern.lib.AbstGameConnectHelper;
+import dp03_templateMethodPattern.lib.DefaultGameConnectHelper;
 
 public class Main {
 

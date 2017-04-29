@@ -1,4 +1,4 @@
-package dp03_templateMethodPattern_lib;
+package dp03_templateMethodPattern.lib;
 
 public abstract class AbstGameConnectHelper {
 	//라이브러리로 배포되었다고 가정

@@ -1,4 +1,4 @@
-package dp03_templateMethodPattern_lib;
+package dp03_templateMethodPattern.lib;
 
 public class DefaultGameConnectHelper extends AbstGameConnectHelper{
 
